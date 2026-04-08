@@ -22,4 +22,4 @@ text_generation==0.7.0
 tiktoken==0.8.0
 torch==2.0.1
 tqdm==4.66.1
-transformers==4.46.3
+transformers==5.0.0rc3
